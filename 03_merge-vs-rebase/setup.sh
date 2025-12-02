@@ -15,6 +15,9 @@ cd "$DEMO_DIR"
 
 git init -q
 
+# sicherstellen, dass wir einen 'main' Branch haben
+git checkout -b main
+
 echo "Version 1" > app.txt
 git add app.txt
 git commit -qm "Initial commit on main"
