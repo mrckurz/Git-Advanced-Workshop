@@ -1,4 +1,4 @@
-# Ablaufplan – Git Advanced (5 Stunden)
+# Ablaufplan – Git Advanced (ca. 5 Stunden)
 
 Gesamtzeit: ca. 5 Stunden inkl. Pausen.
 
@@ -57,7 +57,7 @@ Material:
 - `06_advanced/`
 
 ## Block 7 (4:15–4:45, 30 min)
-**Große Abschlussübung** – Kombination der wichtigsten Konzepte
+**Abschlussübung** – Kombination der wichtigsten Konzepte
 
 Material:  
 - `07_final-exercise/`
