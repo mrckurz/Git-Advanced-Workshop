@@ -1,6 +1,6 @@
 # 01 – DAG Basics & Mental Model
 
-Ziel dieses Blocks: Alle haben wieder ein gemeinsames Bild davon, wie Git intern denkt.
+Ziel dieses Blocks: Alle haben (wieder) ein gemeinsames Bild davon, wie Git intern denkt.
 
 ## Live-Demo-Ideen (für Lehrende)
 
