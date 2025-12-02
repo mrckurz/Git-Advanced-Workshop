@@ -9,6 +9,9 @@ cd "$DEMO_DIR"
 
 git init -q
 
+# sicherstellen, dass wir einen 'main' Branch haben
+git checkout -b main
+
 echo "Simple App v1" > app.txt
 cat <<EOF > README.md
 # Stash Demo
