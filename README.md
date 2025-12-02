@@ -1,6 +1,6 @@
 # Git Advanced Workshop
 
-Dieses Repository enthält das Material für einen 5‑stündigen **„Git Advanced“** Workshop.
+Dieses Repository enthält das Material für einen ca. 5‑stündigen **„Git Advanced“** Workshop unter folgenden Prämissen:
 
 - Keine Folien – alles wird **live im Terminal** und **an der Tafel** gezeigt.
 - Die Studierenden kennen bereits die Grundlagen von Git (Commits, Branches, Remotes).
@@ -21,11 +21,11 @@ Dieses Repository enthält das Material für einen 5‑stündigen **„Git Advan
    - `bisect`
    - `cherry-pick` / `revert`
    - `worktree` (optional)
-7. Große Abschlussübung, die mehrere Konzepte kombiniert
+7. Übung, die mehrere Konzepte kombiniert
 
 ## Verwendung
 
-1. Klone dieses Repository auf deinen Rechner.
+1. Klone oder forke dieses Repository auf deinen Rechner.
 2. Für einzelne Blöcke findest du Ordner `01_...`, `02_...` etc.
 3. In vielen Ordnern gibt es ein `setup.sh` Script, das ein **separates Demo-Repository** erzeugt.
    - Beispiel:
@@ -35,8 +35,3 @@ Dieses Repository enthält das Material für einen 5‑stündigen **„Git Advan
      ```
    - Danach kannst du im erzeugten Unterordner (z. B. `repo-stash-demo/`) mit Git arbeiten.
 4. Lösungen / Hinweise stehen in den jeweiligen `README.md` oder `solutions.md` Dateien.
-
-## Hinweis für Lehrende
-
-- Du kannst die Reihenfolge anpassen oder einzelne Teile überspringen, je nach Vorkenntnissen.
-- Das Repository ist so aufgebaut, dass die Studierenden auch später nochmal alleine üben können.
