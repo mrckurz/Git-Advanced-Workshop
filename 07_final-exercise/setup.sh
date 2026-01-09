@@ -7,7 +7,7 @@ rm -rf "$DEMO_DIR"
 mkdir "$DEMO_DIR"
 cd "$DEMO_DIR"
 
-git init -q
+git init -q -b main
 
 echo "Mini Webapp" > app.txt
 git add app.txt
